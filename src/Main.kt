@@ -99,7 +99,6 @@ fun main() {
                         5 -> cabina_5.reiniciarCabina()
                         else -> println("!!!No escogió una opción valida inténtelo de nuevo!!!")
                     }
-
                 }
                 5 -> opcion = 5
                 else -> println("!!!Opción invalida. Por favor ingrese una opción del menú!!!")
